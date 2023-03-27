@@ -1,1 +1,1 @@
-# jimmydoi.github.com
+# jimmydoi.github.io
