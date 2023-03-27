@@ -5,6 +5,7 @@
 <br><br>
 
 
+
 ___
 
 March 2023  
@@ -17,11 +18,11 @@ Presentation: "*DEI (Diversity, Equity, Inclusivity) at ASA & Various US Univers
 ___
 
 July 2022  
-Maebashi Super Science High School  
-Statistics Lecture  
+Maebashi Super Science High School (群馬県立前橋高校)  
+Statistics Lecture (統計講義)  
 
-- [Lecture Materials](https://www.dropbox.com/s/x8r8a24znb7e6rc/2022_Maebashi_HS_Lecture_Doi.pdf?dl=0)
-- [Lecture Video Sample (10 minutes)]
+- [Lecture Notes -- 講義ノート](https://www.dropbox.com/s/x8r8a24znb7e6rc/2022_Maebashi_HS_Lecture_Doi.pdf?dl=0)
+- [Lecture Video Sample (10 minutes) -- 講義動画サンプル (10分)]
 
 
 ___
