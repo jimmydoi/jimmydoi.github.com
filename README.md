@@ -1,5 +1,5 @@
 # [Jimmy Doi](https://statistics.calpoly.edu/jimmy-doi)
-## Professor, [Statistics Department](https://statistics.calpoly.edu)
+## [Professor, Statistics Department](https://statistics.calpoly.edu)
 ## [Cal Poly San Luis Obispo](https://www.calpoly.edu/)
 
 <br><br>
