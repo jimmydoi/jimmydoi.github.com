@@ -21,7 +21,7 @@ Maebashi Super Science High School
 Statistics Lecture  
 
 - [Lecture Materials](https://www.dropbox.com/s/x8r8a24znb7e6rc/2022_Maebashi_HS_Lecture_Doi.pdf?dl=0)
-- [Lecture Video Sample]
+- [Lecture Video Sample (10 minutes)]
 
 
 ___
