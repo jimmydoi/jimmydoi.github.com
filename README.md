@@ -1,5 +1,5 @@
 # Jimmy Doi
-## Professor, Statistics Department
+## Professor, [Statistics Department](https://statistics.calpoly.edu)
 ## Cal Poly San Luis Obispo
 
 <br><br>
