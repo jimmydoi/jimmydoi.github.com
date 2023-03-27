@@ -1,4 +1,6 @@
-# SAMPLE TEXT
+# Jimmy Doi
+## Professor, Statistics Department
+## Cal Poly San Luis Obispo
 
 An h1 header
 ============
