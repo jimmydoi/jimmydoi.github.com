@@ -1,4 +1,7 @@
-theme: jekyll-theme-Dinky
+theme: jekyll-theme-Cayman
+
+title: [The title of your site]
+description: [A short description of your site's purpose]
 
 # theme: jekyll-theme-Cayman
 # theme: jekyll-theme-Minimal
