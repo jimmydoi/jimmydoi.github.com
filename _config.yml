@@ -1,7 +1,8 @@
-theme: jekyll-theme-Cayman
+theme: bulma-clean-theme
 
-title: [Jimmy Doi Github Page]
-description: []
+# theme: jekyll-theme-Cayman
+# title: [Jimmy Doi Github Page]
+# description: []
 
 # theme: jekyll-theme-Cayman
 # theme: jekyll-theme-Minimal
