@@ -27,6 +27,18 @@ Statistics Lecture (統計講義)
 
 ___
 
+"Lecture Examples using Simulation-Based Inference and Active Learning"  
+Journal of Japan Society of Mathematical Education, 101(3), 28-39  
+
+シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例  
+⽇本数学教育学会誌, 第101巻, 3号, 28-–39
+
+[PDF](https://www.dropbox.com/s/tmqjsv6dqb0eg25/Doi_SBI_ActiveLearning_JPN.pdf?dl=0)
+___
+
+
+<br><br>
+
 # An h1 header
 
 
