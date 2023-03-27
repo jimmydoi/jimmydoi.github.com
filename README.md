@@ -1,4 +1,4 @@
-# jimmydoi.github.io
+# SAMPLE TEXT
 
 An h1 header
 ============
