@@ -8,7 +8,7 @@
 ___
 
 March 2023  
-Japan Statistical Society Spring Meeting
+Japan Statistical Society Spring Meeting  
 Presentation: "*DEI (Diversity, Equity, Inclusivity) at ASA & Various US Universities*"  
 
 - [Presentation Slides PDF](https://www.dropbox.com/s/maeg9g26y7ezhqy/2023_JSS_DEI_Doi_UPDATED.pdf?dl=0)
