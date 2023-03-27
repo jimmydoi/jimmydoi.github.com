@@ -7,6 +7,13 @@
 
 ___
 
+March 2023
+Japan Statistical Society
+"*DEI (Diversity, Equity, Inclusivity) at ASA & Various US Universities*"
+
+- [Presentation Slides](https://www.dropbox.com/s/maeg9g26y7ezhqy/2023_JSS_DEI_Doi_UPDATED.pdf?dl=0)
+- [Presentation Video (30 minutes)](https://www.dropbox.com/s/2oojw37hpr8ons7/2023_JSS_Doi.mp4?dl=0)
+
 ___
 
 ___
