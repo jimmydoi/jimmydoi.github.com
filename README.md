@@ -12,9 +12,12 @@ Japan Statistical Society Spring Meeting
 Presentation: "*DEI (Diversity, Equity, Inclusivity) at ASA & Various US Universities*"  
 
 - [Presentation Slides PDF](https://www.dropbox.com/s/maeg9g26y7ezhqy/2023_JSS_DEI_Doi_UPDATED.pdf?dl=0)
-- [Presentation Video (30 minutes)](https://www.dropbox.com/s/2oojw37hpr8ons7/2023_JSS_Doi.mp4?dl=0)
+- [Presentation Video (30 minutes)]([https://www.dropbox.com/s/2oojw37hpr8ons7/2023_JSS_Doi.mp4?dl=0](https://www.youtube.com/watch?v=ZbT54vnDhgU&list=PL30VEovtv-DuYifXcx-bGVdmNKmXrAMmj&index=1))
 
 ___
+
+
+
 
 ___
 
