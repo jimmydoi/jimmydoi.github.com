@@ -1,8 +1,7 @@
-remote_theme: benbalter/retlab
+remote_theme: chrisrhymes/bulma-clean-theme
 
-
+# remote_theme: benbalter/retlab
 # remote_theme: adobe/hyde-theme@v1.0.0
-# remote_theme: chrisrhymes/bulma-clean-theme
 
 ############################################
 # theme: jekyll-theme-Cayman
