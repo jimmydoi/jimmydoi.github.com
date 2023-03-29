@@ -1,8 +1,8 @@
-remote_theme: lenpaul/academic-jekyll-theme
+remote_theme: alshedivat/al-folio
 
 # remote_theme: chrisrhymes/bulma-clean-theme
 
-
+#remote_theme: lenpaul/academic-jekyll-theme
 # remote_theme: ys1998/academic-portfolio
 # remote_theme: benbalter/retlab
 # remote_theme: adobe/hyde-theme@v1.0.0
