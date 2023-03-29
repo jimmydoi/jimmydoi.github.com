@@ -1,4 +1,6 @@
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: lenpaul/academic-jekyll-theme
+
+# remote_theme: chrisrhymes/bulma-clean-theme
 
 
 # remote_theme: ys1998/academic-portfolio
